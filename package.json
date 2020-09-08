@@ -1,0 +1,26 @@
+{
+    "name": "gist-theme",
+    "displayName": "Gist Theme",
+    "description": "Gist's color theme",
+    "publisher": "Gist",
+    "version": "1.0.4",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/n-gist/vscode-gist-theme.git"
+    },
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gist Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gist-theme.json"
+            }
+        ]
+    }
+}

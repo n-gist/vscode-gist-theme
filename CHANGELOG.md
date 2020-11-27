@@ -1,3 +1,5 @@
+## [1.0.5]
+- Added icon
 ## [1.0.4]
 - Added repository
 ## [1.0.3]

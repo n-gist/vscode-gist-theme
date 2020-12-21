@@ -1,3 +1,5 @@
+## [1.0.6]
+- Added screenshots for marketplace
 ## [1.0.5]
 - Added icon
 ## [1.0.4]

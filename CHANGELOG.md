@@ -1,3 +1,5 @@
+## [1.0.7]
+- Match colors adjustments, bracket match colors
 ## [1.0.6]
 - Added screenshots for marketplace
 ## [1.0.5]

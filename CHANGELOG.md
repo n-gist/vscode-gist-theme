@@ -1,3 +1,5 @@
+## [1.0.8]
+- Code syntax coloring rework, based on VS Code dark_plus theme
 ## [1.0.7]
 - Match colors adjustments, bracket match colors
 ## [1.0.6]

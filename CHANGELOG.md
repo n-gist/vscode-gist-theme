@@ -1,3 +1,5 @@
+## [1.0.9]
+- Fixes for explorer view item colors
 ## [1.0.8]
 - Code syntax coloring rework, based on VS Code dark_plus theme
 ## [1.0.7]

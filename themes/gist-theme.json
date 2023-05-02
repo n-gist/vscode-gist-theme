@@ -96,7 +96,8 @@
             "scope": [
                 "punctuation",
                 "meta.brace.round",
-                "meta.brace.square"
+                "meta.brace.square",
+                "meta.brace.angle"
             ],
             "settings": {
                 "foreground": "#777777"

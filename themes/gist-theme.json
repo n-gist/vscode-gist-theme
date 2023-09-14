@@ -36,7 +36,7 @@
         "sideBar.border": "#1a1a1a",
         "tab.inactiveBackground": "#0d0d0d",
         "tab.activeBackground": "#1d1d1d",
-        "tab.activeBorder": "#555555",
+        "tab.activeBorder": "#444444",
         "tab.unfocusedActiveBackground": "#151515",
         "tab.unfocusedActiveBorder": "#1a1a1a",
         "tab.border": "#1a1a1a",
@@ -88,7 +88,10 @@
         "quickInput.background": "#000000",
         "contrastBorder": "#1a1a1a",
         "window.activeBorder": "#151515",
-        "window.inactiveBorder": "#111111"
+        "window.inactiveBorder": "#111111",
+        "editorStickyScroll.background": "#1d1d1d",
+        "editorStickyScrollHover.background": "#282828",
+        "scrollbar.shadow": "#0d0d0d"
     },
 	"tokenColors": [
         {

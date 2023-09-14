@@ -1,3 +1,5 @@
+## [1.0.10]
+- Sticky Scroll background, minor adjustments
 ## [1.0.9]
 - Fixes for explorer view item colors
 ## [1.0.8]

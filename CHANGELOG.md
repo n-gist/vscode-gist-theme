@@ -1,3 +1,5 @@
+## [2.0.0]
+- Syntax highlighting review, other adjustments
 ## [1.0.10]
 - Sticky Scroll background, minor adjustments
 ## [1.0.9]
